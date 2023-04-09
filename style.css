@@ -1,0 +1,13 @@
+.calci
+{
+	width: 50%;
+    margin: auto;
+    text-align: center;
+    padding: 50px;
+    background: antiquewhite;
+    border-radius: 30px;
+}
+input[type="button"],#divResult
+{
+	margin-top: 30px;
+}
